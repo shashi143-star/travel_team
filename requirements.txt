@@ -1,0 +1,5 @@
+langchain-openrouter
+langchain-core
+langgraph
+streamlit
+pandas
